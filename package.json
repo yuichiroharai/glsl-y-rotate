@@ -1,6 +1,6 @@
 {
   "name": "glsl-y-rotate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "make a rotation matrix(mat3) around X/Y/Z-axis for glslify.",
   "main": "index.glsl",
   "scripts": {},
