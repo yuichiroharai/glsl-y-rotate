@@ -1,7 +1,7 @@
 {
   "name": "glsl-y-rotate",
-  "version": "2.0.0",
-  "description": "make a rotation matrix 2D or 3D(around X/Y/Z-axis) for glslify.",
+  "version": "3.0.0",
+  "description": "A GLSL Module which generates a rotation matrix",
   "main": "rotate.glsl",
   "scripts": {},
   "repository": {
@@ -15,6 +15,7 @@
     "webgl",
     "math",
     "matrix",
+    "quaternion",
     "rotate"
   ],
   "author": {
